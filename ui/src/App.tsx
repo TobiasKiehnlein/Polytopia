@@ -1,12 +1,16 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
+import Background from './Components/Background';
+import { useTestWebSocket } from './Hooks/useMap';
 
 function App() {
-  return (
-    <>
-        TEST
-    </>
-  );
+	useTestWebSocket();
+	
+	return (
+		<>
+			<Background/>
+		</>
+	);
 }
 
 export default App;

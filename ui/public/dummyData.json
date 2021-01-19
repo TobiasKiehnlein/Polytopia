@@ -1,0 +1,1232 @@
+{
+    "tiles": [
+        [
+            "PLAIN",
+            "VILLAGE",
+            "PLAIN",
+            "FOREST",
+            "PLAIN",
+            "PLAIN",
+            "FOG",
+            "FOREST",
+            "PLAIN",
+            "MOUNTAIN"
+        ],
+        [
+            "VILLAGE",
+            "PLAIN",
+            "VILLAGE",
+            "PLAIN",
+            "FOREST",
+            "FOREST",
+            "FOREST",
+            "PLAIN",
+            "MOUNTAIN",
+            "PLAIN"
+        ],
+        [
+            "PLAIN",
+            "PLAIN",
+            "VILLAGE",
+            "PLAIN",
+            "SHALLOW_WATER",
+            "FOREST",
+            "FOG",
+            "PLAIN",
+            "PLAIN",
+            "DEEP_WATER"
+        ],
+        [
+            "FOREST",
+            "MOUNTAIN",
+            "VILLAGE",
+            "FOG",
+            "FOG",
+            "SHALLOW_WATER",
+            "VILLAGE",
+            "VILLAGE",
+            "VILLAGE",
+            "FOREST"
+        ],
+        [
+            "FOREST",
+            "VILLAGE",
+            "FOREST",
+            "DEEP_WATER",
+            "FOREST",
+            "VILLAGE",
+            "SHALLOW_WATER",
+            "VILLAGE",
+            "SHALLOW_WATER",
+            "FOREST"
+        ],
+        [
+            "PLAIN",
+            "SHALLOW_WATER",
+            "FOREST",
+            "CITY",
+            "PLAIN",
+            "FOREST",
+            "VILLAGE",
+            "PLAIN",
+            "FOG",
+            "DEEP_WATER"
+        ],
+        [
+            "SHALLOW_WATER",
+            "PLAIN",
+            "DEEP_WATER",
+            "MOUNTAIN",
+            "FOG",
+            "CITY",
+            "FOREST",
+            "FOREST",
+            "FOG",
+            "PLAIN"
+        ],
+        [
+            "PLAIN",
+            "DEEP_WATER",
+            "FOREST",
+            "PLAIN",
+            "VILLAGE",
+            "PLAIN",
+            "DEEP_WATER",
+            "FOREST",
+            "DEEP_WATER",
+            "CITY"
+        ],
+        [
+            "PLAIN",
+            "FOREST",
+            "FOG",
+            "PLAIN",
+            "PLAIN",
+            "PLAIN",
+            "PLAIN",
+            "PLAIN",
+            "FOREST",
+            "SHALLOW_WATER"
+        ],
+        [
+            "MOUNTAIN",
+            "VILLAGE",
+            "PLAIN",
+            "MOUNTAIN",
+            "SHALLOW_WATER",
+            "FOG",
+            "MOUNTAIN",
+            "PLAIN",
+            "VILLAGE",
+            "PLAIN"
+        ]
+    ],
+    "units": [
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 4,
+                "DEF": 1,
+                "MOV": 3,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 8,
+                "currentHP": 15,
+                "pos": [
+                    0,
+                    7
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "c15bae4ad61845c6acec7a7c705ff104",
+                "tribe": "2a1c3ab12052475c81da48a7f9d37498",
+                "status": "_FINISHED_",
+                "typ": "KNIGHT"
+            },
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            {
+                "ATK": 2,
+                "DEF": 1,
+                "MOV": 2,
+                "maxHP": 10,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 10,
+                "pos": [
+                    1,
+                    2
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "fde575ca34b94bb8b35600f974615d6b",
+                "tribe": "dc62f4ed9f9e415793a20d8a42560e88",
+                "status": "_FINISHED_",
+                "typ": "RIDER"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 2,
+                "DEF": 1,
+                "MOV": 2,
+                "maxHP": 10,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 10,
+                "pos": [
+                    1,
+                    8
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "c15bae4ad61845c6acec7a7c705ff104",
+                "tribe": "2a1c3ab12052475c81da48a7f9d37498",
+                "status": "_FINISHED_",
+                "typ": "RIDER"
+            },
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 2,
+                "DEF": 1,
+                "MOV": 2,
+                "maxHP": 10,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 10,
+                "pos": [
+                    4,
+                    4
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "6440913dd5174b1096547698188e9fb0",
+                "tribe": "67921e50e4dc48b8a3f3683862339594",
+                "status": "_FINISHED_",
+                "typ": "RIDER"
+            },
+            null,
+            null,
+            {
+                "ATK": 1,
+                "DEF": 3,
+                "MOV": 1,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 15,
+                "pos": [
+                    4,
+                    7
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": null,
+                "tribe": "2a1c3ab12052475c81da48a7f9d37498",
+                "status": "_FINISHED_",
+                "typ": "DEFENDER"
+            },
+            null,
+            {
+                "ATK": 1,
+                "DEF": 3,
+                "MOV": 1,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 15,
+                "pos": [
+                    4,
+                    9
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": null,
+                "tribe": "67921e50e4dc48b8a3f3683862339594",
+                "status": "_FINISHED_",
+                "typ": "DEFENDER"
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 4,
+                "DEF": 1,
+                "MOV": 3,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 8,
+                "currentHP": 15,
+                "pos": [
+                    5,
+                    7
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "6440913dd5174b1096547698188e9fb0",
+                "tribe": "67921e50e4dc48b8a3f3683862339594",
+                "status": "_FINISHED_",
+                "typ": "KNIGHT"
+            },
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    ],
+    "resources": [
+        [
+            "FRUIT",
+            null,
+            null,
+            null,
+            "FRUIT",
+            "FRUIT",
+            null,
+            null,
+            "FRUIT",
+            null
+        ],
+        [
+            null,
+            "FRUIT",
+            null,
+            "FRUIT",
+            null,
+            "ANIMAL",
+            "ANIMAL",
+            null,
+            "ORE",
+            null
+        ],
+        [
+            "FRUIT",
+            null,
+            null,
+            "FRUIT",
+            null,
+            null,
+            "RUINS",
+            "FRUIT",
+            null,
+            null
+        ],
+        [
+            "RUINS",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "RUINS",
+            null,
+            "RUINS"
+        ],
+        [
+            null,
+            null,
+            null,
+            "WHALES",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            "ANIMAL",
+            null,
+            null,
+            null,
+            null,
+            "FRUIT",
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            "CROPS",
+            "WHALES",
+            null,
+            null,
+            null,
+            "FRUIT",
+            null,
+            "ANIMAL",
+            "WHALES",
+            null
+        ],
+        [
+            "FRUIT",
+            null,
+            null,
+            "FRUIT",
+            "FRUIT",
+            "FRUIT",
+            "FRUIT",
+            null,
+            "ANIMAL",
+            "FISH"
+        ],
+        [
+            null,
+            null,
+            "FRUIT",
+            "ORE",
+            null,
+            null,
+            null,
+            "FRUIT",
+            null,
+            null
+        ]
+    ],
+    "cities": {
+        "fde575ca34b94bb8b35600f974615d6b": {
+            "cityId": "fde575ca34b94bb8b35600f974615d6b",
+            "pos": [
+                6,
+                5
+            ],
+            "tribe": "dc62f4ed9f9e415793a20d8a42560e88",
+            "population_need": 2,
+            "bound": 1,
+            "level": 1,
+            "isCapital": true,
+            "hasWalls": false,
+            "population": 0,
+            "production": 0,
+            "units": [
+                "b0b0f5dc790c471695a2b5af4e1c3872"
+            ],
+            "buildings": [],
+            "pointsWorth": 0
+        },
+        "6440913dd5174b1096547698188e9fb0": {
+            "cityId": "6440913dd5174b1096547698188e9fb0",
+            "pos": [
+                5,
+                3
+            ],
+            "tribe": "67921e50e4dc48b8a3f3683862339594",
+            "population_need": 2,
+            "bound": 1,
+            "level": 1,
+            "isCapital": true,
+            "hasWalls": false,
+            "population": 0,
+            "production": 0,
+            "units": [
+                "74e2bdf2acc34563bc834a097c88a6ab",
+                "a9d70af3c27343d28f870968f1d571b1"
+            ],
+            "buildings": [],
+            "pointsWorth": 0
+        },
+        "c15bae4ad61845c6acec7a7c705ff104": {
+            "cityId": "c15bae4ad61845c6acec7a7c705ff104",
+            "pos": [
+                7,
+                9
+            ],
+            "tribe": "2a1c3ab12052475c81da48a7f9d37498",
+            "population_need": 2,
+            "bound": 1,
+            "level": 1,
+            "isCapital": true,
+            "hasWalls": false,
+            "population": 0,
+            "production": 0,
+            "units": [
+                "2a4dcbd47b544729b3c455382a3e7a63",
+                "cc4231302da54611957e826a87c43ed1"
+            ],
+            "buildings": [],
+            "pointsWorth": 0
+        }
+    },
+    "buildings": [
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 4,
+                "DEF": 1,
+                "MOV": 3,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 8,
+                "currentHP": 15,
+                "pos": [
+                    0,
+                    7
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "c15bae4ad61845c6acec7a7c705ff104",
+                "tribe": "2a1c3ab12052475c81da48a7f9d37498",
+                "status": "_FINISHED_",
+                "typ": "KNIGHT"
+            },
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            {
+                "ATK": 2,
+                "DEF": 1,
+                "MOV": 2,
+                "maxHP": 10,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 10,
+                "pos": [
+                    1,
+                    2
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "fde575ca34b94bb8b35600f974615d6b",
+                "tribe": "dc62f4ed9f9e415793a20d8a42560e88",
+                "status": "_FINISHED_",
+                "typ": "RIDER"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 2,
+                "DEF": 1,
+                "MOV": 2,
+                "maxHP": 10,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 10,
+                "pos": [
+                    1,
+                    8
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "c15bae4ad61845c6acec7a7c705ff104",
+                "tribe": "2a1c3ab12052475c81da48a7f9d37498",
+                "status": "_FINISHED_",
+                "typ": "RIDER"
+            },
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 2,
+                "DEF": 1,
+                "MOV": 2,
+                "maxHP": 10,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 10,
+                "pos": [
+                    4,
+                    4
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "6440913dd5174b1096547698188e9fb0",
+                "tribe": "67921e50e4dc48b8a3f3683862339594",
+                "status": "_FINISHED_",
+                "typ": "RIDER"
+            },
+            null,
+            null,
+            {
+                "ATK": 1,
+                "DEF": 3,
+                "MOV": 1,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 15,
+                "pos": [
+                    4,
+                    7
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": null,
+                "tribe": "2a1c3ab12052475c81da48a7f9d37498",
+                "status": "_FINISHED_",
+                "typ": "DEFENDER"
+            },
+            null,
+            {
+                "ATK": 1,
+                "DEF": 3,
+                "MOV": 1,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 3,
+                "currentHP": 15,
+                "pos": [
+                    4,
+                    9
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": null,
+                "tribe": "67921e50e4dc48b8a3f3683862339594",
+                "status": "_FINISHED_",
+                "typ": "DEFENDER"
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "ATK": 4,
+                "DEF": 1,
+                "MOV": 3,
+                "maxHP": 15,
+                "RANGE": 1,
+                "COST": 8,
+                "currentHP": 15,
+                "pos": [
+                    5,
+                    7
+                ],
+                "kills": 0,
+                "isVeteran": false,
+                "city": "6440913dd5174b1096547698188e9fb0",
+                "tribe": "67921e50e4dc48b8a3f3683862339594",
+                "status": "_FINISHED_",
+                "typ": "KNIGHT"
+            },
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    ],
+    "tribes": [
+        {
+            "tribeId": "dc62f4ed9f9e415793a20d8a42560e88",
+            "tribe": "Xin-Xi",
+            "capital": "fde575ca34b94bb8b35600f974615d6b",
+            "winner": 2,
+            "obsGrid": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "techTree": null,
+            "cities": [
+                "fde575ca34b94bb8b35600f974615d6b"
+            ],
+            "stars": 5,
+            "score": 100,
+            "tribesMet": [],
+            "extraUnits": [],
+            "connectedCities": [],
+            "monuments": {},
+            "nKills": 0,
+            "nPacifistCount": 0
+        },
+        {
+            "tribeId": "67921e50e4dc48b8a3f3683862339594",
+            "tribe": "Oumaji",
+            "capital": "6440913dd5174b1096547698188e9fb0",
+            "winner": 2,
+            "obsGrid": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "techTree": null,
+            "cities": [
+                "6440913dd5174b1096547698188e9fb0"
+            ],
+            "stars": 5,
+            "score": 100,
+            "tribesMet": [],
+            "extraUnits": [
+                "2bc7124e381e4c60b91f4fa39fb22b3a"
+            ],
+            "connectedCities": [],
+            "monuments": {},
+            "nKills": 0,
+            "nPacifistCount": 0
+        },
+        {
+            "tribeId": "2a1c3ab12052475c81da48a7f9d37498",
+            "tribe": "Bardur",
+            "capital": "c15bae4ad61845c6acec7a7c705ff104",
+            "winner": 2,
+            "obsGrid": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "techTree": null,
+            "cities": [
+                "c15bae4ad61845c6acec7a7c705ff104"
+            ],
+            "stars": 5,
+            "score": 100,
+            "tribesMet": [],
+            "extraUnits": [
+                "fdba7394a29b4082980516b0b9443621"
+            ],
+            "connectedCities": [],
+            "monuments": {},
+            "nKills": 0,
+            "nPacifistCount": 0
+        }
+    ]
+}
