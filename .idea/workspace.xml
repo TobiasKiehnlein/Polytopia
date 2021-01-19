@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50638d69-ba55-404b-b68a-c59885b3bed7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/web/Websocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/Websocket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/ui/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ui/public/assets/renameFiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/ui/public/assets/renameFiles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/Hooks/useMap.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/Hooks/useMap.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +49,6 @@
       <recent name="$PROJECT_DIR$/ui/public/assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.renders learn react link">
-    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/ui/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$/ui" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/ui/src/App.test.tsx" />
-      <test-names>
-        <test-name value="renders learn react link" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Jest.renders learn react link" />
-      <item itemvalue="npm.start" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Jest.renders learn react link" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +64,7 @@
       <workItem from="1610664509782" duration="1305000" />
       <workItem from="1610825561542" duration="7338000" />
       <workItem from="1610893300882" duration="3106000" />
-      <workItem from="1611060362547" duration="2468000" />
+      <workItem from="1611060362547" duration="3873000" />
     </task>
     <task id="LOCAL-00001" summary="Added backend submodule">
       <created>1610825876919</created>

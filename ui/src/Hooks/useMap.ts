@@ -12,7 +12,7 @@ const useMap = () => {
 };
 
 export const useTestWebSocket = () => {
-	let ws = useRef<WebSocket>(new WebSocket('wss://localhost:6789'));
+	let ws = useRef<WebSocket>(new WebSocket('ws://localhost:6789'));
 	
 	useEffect(() => {
 		ws.current.onopen = () => console.log('ws opened');
@@ -27,6 +27,13 @@ export const useTestWebSocket = () => {
 			ws.current?.close();
 		};
 	}, []);
+	
+	const sendDummyData = (testData: any) => {
+		console.log(testData);
+		ws.current.send(JSON.stringify(testData));
+	};
+	
+	return sendDummyData;
 };
 
 export enum Tiles {
